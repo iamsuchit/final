@@ -47,3 +47,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+![Screenshot 2023-12-19 201003](https://github.com/iamsuchit/final/assets/95918353/8c989d41-f43b-4e7e-8bf8-afc55757b6d0)
+![Screenshot 2023-12-19 201055](https://github.com/iamsuchit/final/assets/95918353/2ade11f7-4915-4e53-964a-a6454fd729b4)
+![Screenshot 2023-12-19 201137](https://github.com/iamsuchit/final/assets/95918353/45bf2db4-2fcf-41fa-852f-00c43f748d61)
+![Screenshot 2023-12-19 201216](https://github.com/iamsuchit/final/assets/95918353/593baf6f-c169-46b8-b69a-b3c57b4b5f55)
+
+
